@@ -1,22 +1,98 @@
-🛠️ Tech Arsenal
-<div align="center">
-Core Technologies
+# 👋 Hi, I'm Uditha Nayanajith
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uditha-nayanajith)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/udithanayanajith)
 
-Web Technologies
+## 👨‍💻 About Me
 
+Full Stack Developer passionate about creating innovative solutions and learning new technologies. I specialize in web development and enjoy working on challenging projects that push my boundaries.
 
-DevOps & Cloud
+## 🚀 Skills & Technologies
 
+```mermaid
+mindmap
+  root((Tech Stack))
+    Frontend
+      HTML/CSS
+      JavaScript
+      React
+      Angular
+    Backend
+      Node.js
+      Python
+      Java
+    Database
+      MongoDB
+      MySQL
+      PostgreSQL
+    Tools
+      Git
+      Docker
+      AWS
+```
 
-Tools & Systems
+## 📊 GitHub Statistics
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udithanayanajith&theme=dark)](https://git.io/streak-stats)
 
-</div>
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=udithanayanajith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udithanayanajith&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithanayanajith&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" /> </div>
-🗂️ Highlighted Projects
-<div align="center"> <a href="https://github.com/udithanayanajith/RMIProject"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=udithanayanajith&repo=RMIProject&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" /> </a> <a href="https://github.com/udithanayanajith/reactWeatherapp"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=udithanayanajith&repo=reactWeatherapp&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" /> </a> </div>
-🤝 Connect & Collaborate
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=
+```mermaid
+pie title Languages Used
+    "JavaScript" : 40
+    "Python" : 25
+    "Java" : 20
+    "HTML/CSS" : 15
+```
+
+## 🌟 Featured Projects
+
+### Project 1: E-Commerce Platform
+- Full-stack application built with MERN stack
+- Implemented secure payment gateway
+- Responsive design with material-UI
+- **Tech Stack**: MongoDB, Express.js, React, Node.js
+
+### Project 2: Task Management System
+- Real-time updates using WebSocket
+- User authentication and authorization
+- Drag-and-drop interface
+- **Tech Stack**: Angular, Firebase, Node.js
+
+## 📈 Contribution Graph
+
+```mermaid
+gitGraph
+    commit
+    commit
+    branch feature
+    checkout feature
+    commit
+    commit
+    checkout main
+    merge feature
+    commit
+    commit
+```
+
+## 🎯 Current Focus
+
+- Deep learning in AI/ML
+- Cloud architecture
+- Mobile app development
+- System design patterns
+
+## 📫 Get in Touch
+
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [Uditha Nayanajith](https://www.linkedin.com/in/uditha-nayanajith)
+- 🌐 Portfolio: [website.com](https://your-portfolio.com)
+
+## 🏆 Achievements
+
+- 🥇 HackerRank Problem Solving (Gold)
+- 🎓 AWS Certified Developer
+- 🏆 Best Innovation Award - University Project Exhibition
+
+---
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+![Profile Views](https://komarev.com/ghpvc/?username=udithanayanajith)
