@@ -112,7 +112,7 @@ gitGraph
 ## 📫 Get in Touch
 
 - 📧 Email: udithanayanajith97@gmail.com
-- 💼 LinkedIn: [Uditha Nayanajith]((https://www.linkedin.com/in/uditha-nayanagith-a06a1a17b/))
+- 💼 LinkedIn: [Uditha Nayanajith](https://www.linkedin.com/in/uditha-nayanagith-a06a1a17b/)
 - 🌐 Portfolio: [website.com](https://your-portfolio.com)
 
 ## 🏆 Achievements
