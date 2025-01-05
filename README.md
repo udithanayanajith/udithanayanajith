@@ -17,7 +17,7 @@
 const UdithaNayanajith = {
     location: "Sri Lanka 🇱🇰",
     education: "BSc in Computer Science and Software Engineering",
-    roles: ["Full Stack Developer", "Open Source Contributor", "Tech Enthusiast"],
+    roles: ["Full Stack Developer", "Open Source Contributor", "Tech Enthusiast", Provide AI/Ml Solutions],
     currentFocus: ["Web Development", "Cloud Computing", "Machine Learning"],
     communities: {
         member: ["Developer Community Sri Lanka", "Open Source Contributors"]
