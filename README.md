@@ -10,10 +10,8 @@ Full Stack Developer passionate about creating innovative solutions and learning
 ## 🚀 Skills & Technologies
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '16px', 'primaryColor': '#4CAF50', 'secondaryColor': '#FFEB3B', 'tertiaryColor': '#FF5722', 'edgeLabelBackground': '#ffffff', 'primaryTextColor': '#FFFFFF', 'secondaryTextColor': '#000000', 'tertiaryTextColor': '#FFFFFF', 'nodeBorder': '2px solid #FFEB3B', 'nodeTextColor': '#FFFFFF', 'linkColor': '#2196F3'}}}%%
-mindmap
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '16px', 'primaryColor': '#FF4081', 'secondaryColor': '#3F51B5', 'tertiaryColor': '#4CAF50', 'nodeTextColor': '#FFFFFF', 'linkColor': '#FFEB3B'}}}%%
  root((Tech Stack))
- style root fill:#00BCD4,stroke:#FFFFFF,color:#FFFFFF
     Frontend
       HTML/CSS
       JavaScript
