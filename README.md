@@ -10,26 +10,46 @@ Full Stack Developer passionate about creating innovative solutions and learning
 ## 🚀 Skills & Technologies
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '16px', 'primaryColor': '#4CAF50', 'secondaryColor': '#FFEB3B', 'tertiaryColor': '#FF5722', 'edgeLabelBackground': '#ffffff', 'primaryTextColor': '#FFFFFF', 'secondaryTextColor': '#000000', 'tertiaryTextColor': '#FFFFFF', 'nodeBorder': '2px solid #FFEB3B', 'nodeTextColor': '#FFFFFF', 'linkColor': '#2196F3'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 
+  'fontSize': '16px', 
+  'primaryColor': '#2196F3', 
+  'secondaryColor': '#FFEB3B', 
+  'tertiaryColor': '#FF5722', 
+  'edgeLabelBackground': '#ffffff', 
+  'primaryTextColor': '#FFFFFF', 
+  'secondaryTextColor': '#000000', 
+  'tertiaryTextColor': '#FFFFFF', 
+  'nodeBorder': '2px solid #FFEB3B', 
+  'nodeTextColor': '#FFFFFF', 
+  'linkColor': '#4CAF50',
+  'nodeShape': 'circle',  %% Adding a shape for Frontend nodes
+  'backendNodeShape': 'rect' %% Adding a different shape for Backend nodes
+}}}%%
 mindmap
- root((Tech Stack))
+  root((Tech Stack))
     Frontend
       HTML/CSS
       JavaScript
       React
       Angular
+      Vue.js   %% Adding Vue.js as a Frontend framework
     Backend
       Node.js
       Python
       Java
+      C#   %% Adding C# to Backend
+      Ruby  %% Adding Ruby to Backend
     Database
       MongoDB
       MySQL
       PostgreSQL
+      SQLite %% Adding SQLite
     Tools
       Git
       Docker
       AWS
+      Kubernetes %% Adding Kubernetes as a tool
+
 
 ```
 
