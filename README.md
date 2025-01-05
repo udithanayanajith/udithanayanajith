@@ -39,7 +39,7 @@ mindmap
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udithanayanajith&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ```mermaid
-%%{init: {'theme': 'dark'}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#4CAF50', 'pie2': '#FFEB3B', 'pie3': '#FF5722', 'pie4': '#2196F3', 'pieTextColor': '#000000', 'pieBackground': '#F5F5F5'}}}%%
 pie showData
     title Languages Used
     "JavaScript" : 40
