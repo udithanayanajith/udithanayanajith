@@ -65,7 +65,7 @@ pie showData
 ## 📈 Contribution Graph
 
 ```mermaid
-%%{init: {'theme': 'dark'}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'gitGraph.commit.color': '#2196F3', 'gitGraph.commit.borderColor': '#FFFFFF', 'gitGraph.commit.selectedColor': '#FFEB3B', 'gitGraph.commit.selectedBorderColor': '#FF5722', 'gitGraph.branch.color': '#FF5722', 'gitGraph.branch.selectedColor': '#4CAF50', 'gitGraph.marker.color': '#FFEB3B', 'gitGraph.marker.selectedColor': '#4CAF50', 'gitGraph.backgroundColor': '#F5F5F5'}}}%%
 gitGraph
     commit
     commit
