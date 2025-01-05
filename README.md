@@ -11,6 +11,7 @@ Full Stack Developer passionate about creating innovative solutions and learning
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '16px', 'primaryColor': '#FF4081', 'secondaryColor': '#3F51B5', 'tertiaryColor': '#4CAF50', 'nodeTextColor': '#FFFFFF', 'linkColor': '#FFEB3B'}}}%%
+mindmap
  root((Tech Stack))
     Frontend
       HTML/CSS
