@@ -32,8 +32,7 @@ mindmap
       AWS
 
 ```
-%% Adding specific style for root node
-classDef rootNode fill:#00BCD4,stroke:#FFFFFF,color:#FFFFFF;
+
 
 ## 📊 GitHub Statistics
 
