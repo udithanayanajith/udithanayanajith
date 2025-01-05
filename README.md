@@ -10,7 +10,7 @@ Full Stack Developer passionate about creating innovative solutions and learning
 ## 🚀 Skills & Technologies
 
 ```mermaid
-%%{init: {'theme': 'light', 'themeVariables': { 'fontSize': '16px'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '16px', 'primaryColor': '#00BFFF', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#F0F0F0'}}}%%
 mindmap
   root((Tech Stack))
     Frontend
@@ -30,6 +30,7 @@ mindmap
       Git
       Docker
       AWS
+
 ```
 
 ## 📊 GitHub Statistics
