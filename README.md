@@ -22,12 +22,12 @@ Full Stack Developer passionate about creating innovative solutions and learning
   'nodeBorder': '2px solid #FFEB3B', 
   'nodeTextColor': '#FFFFFF', 
   'linkColor': '#4CAF50',
-  'backgroundColor': '#F5F5F5', %% Light gray background
+  'backgroundColor': '#F5F5F5'
 }}}%%
 mindmap
   root((Tech Stack))
     Frontend
-      class Frontend fill:#A5D6A7,stroke:#4CAF50,color:#000000
+      class Frontend fill:#A5D6A7,stroke:#4CAF50,color:#E1F5FE
       HTML/CSS
       JavaScript
       React
