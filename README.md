@@ -10,7 +10,7 @@ Full Stack Developer passionate about creating innovative solutions and learning
 ## 🚀 Skills & Technologies
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '16px'}}}%%
+%%{init: {'theme': 'light', 'themeVariables': { 'fontSize': '16px'}}}%%
 mindmap
   root((Tech Stack))
     Frontend
