@@ -111,15 +111,15 @@ gitGraph
 
 ## 📫 Get in Touch
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Uditha Nayanajith](https://www.linkedin.com/in/uditha-nayanajith)
+- 📧 Email: udithanayanajith97@gmail.com
+- 💼 LinkedIn: [Uditha Nayanajith]((https://www.linkedin.com/in/uditha-nayanagith-a06a1a17b/))
 - 🌐 Portfolio: [website.com](https://your-portfolio.com)
 
 ## 🏆 Achievements
 
 - 🥇 HackerRank Problem Solving (Gold)
 - 🎓 AWS Certified Developer
-- 🏆 Best Innovation Award - University Project Exhibition
+
 
 ---
 <div style="background-color: #0D1117; color: #c9d1d9; padding: 20px;">
