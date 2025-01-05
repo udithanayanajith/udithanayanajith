@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;AI/ML+Solutions;Open+Source+Contributor;Tech+Enthusiast)
 
   [![GitHub followers](https://img.shields.io/github/followers/udithanayanajith?label=Follow&style=social)](https://github.com/udithanayanajith)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uditha-nayanagith-a06a1a17b/)
@@ -17,7 +17,7 @@
 const UdithaNayanajith = {
     location: "Sri Lanka 🇱🇰",
     education: "BSc in Computer Science and Software Engineering",
-    roles: ["Full Stack Developer", "Open Source Contributor", "Tech Enthusiast", Provide AI/Ml Solutions],
+    roles: ["Full Stack Developer", "Open Source Contributor", "Tech Enthusiast", "Provide AI/Ml Solutions"],
     currentFocus: ["Web Development", "Cloud Computing", "Machine Learning"],
     communities: {
         member: ["Developer Community Sri Lanka", "Open Source Contributors"]
