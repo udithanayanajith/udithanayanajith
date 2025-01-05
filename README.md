@@ -22,14 +22,12 @@ Full Stack Developer passionate about creating innovative solutions and learning
   'nodeBorder': '2px solid #FFEB3B', 
   'nodeTextColor': '#FFFFFF', 
   'linkColor': '#4CAF50',
-  'nodeShape': 'circle',  %% Frontend nodes are circles
-  'backendNodeShape': 'rect', %% Backend nodes are rectangles
   'backgroundColor': '#F5F5F5', %% Light gray background
-  'frontendNodeColor': '#A5D6A7', %% Light green color for Frontend node
 }}}%%
 mindmap
   root((Tech Stack))
-    Frontend:::frontendNodeColor
+    Frontend
+      class Frontend fill:#A5D6A7,stroke:#4CAF50,color:#000000
       HTML/CSS
       JavaScript
       React
@@ -51,6 +49,7 @@ mindmap
       Docker
       AWS
       Kubernetes
+
 
 ```
 
