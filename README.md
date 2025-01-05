@@ -6,7 +6,7 @@
 
   [![GitHub followers](https://img.shields.io/github/followers/udithanayanajith?label=Follow&style=social)](https://github.com/udithanayanajith)
   [![Twitter Follow](https://img.shields.io/twitter/follow/udithanayanajith?style=social)](https://twitter.com/udithanayanajith)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udithanayanajith/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/udithanayanajith/](https://www.linkedin.com/in/uditha-nayanagith-a06a1a17b/))
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:uditha@example.com)
   
   <img src="https://komarev.com/ghpvc/?username=udithanayanajith&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -17,7 +17,7 @@
 ```typescript
 const UdithaNayanajith = {
     location: "Sri Lanka 🇱🇰",
-    education: "BSc in Computer Science",
+    education: "BSc in Computer Science and Software Engineering",
     roles: ["Full Stack Developer", "Open Source Contributor", "Tech Enthusiast"],
     currentFocus: ["Web Development", "Cloud Computing", "Machine Learning"],
     communities: {
