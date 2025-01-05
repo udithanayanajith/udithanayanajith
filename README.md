@@ -10,6 +10,7 @@ Full Stack Developer passionate about creating innovative solutions and learning
 ## 🚀 Skills & Technologies
 
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '16px'}}}%%
 mindmap
   root((Tech Stack))
     Frontend
@@ -33,10 +34,12 @@ mindmap
 
 ## 📊 GitHub Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udithanayanajith&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udithanayanajith&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ```mermaid
-pie title Languages Used
+%%{init: {'theme': 'dark'}}%%
+pie showData
+    title Languages Used
     "JavaScript" : 40
     "Python" : 25
     "Java" : 20
@@ -60,6 +63,7 @@ pie title Languages Used
 ## 📈 Contribution Graph
 
 ```mermaid
+%%{init: {'theme': 'dark'}}%%
 gitGraph
     commit
     commit
@@ -93,6 +97,8 @@ gitGraph
 - 🏆 Best Innovation Award - University Project Exhibition
 
 ---
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+<div style="background-color: #0D1117; color: #c9d1d9; padding: 20px;">
+    <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=udithanayanajith)
+![Profile Views](https://komarev.com/ghpvc/?username=udithanayanajith&color=blue)
