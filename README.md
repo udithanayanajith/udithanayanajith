@@ -23,7 +23,8 @@ Full Stack Developer passionate about creating innovative solutions and learning
   'nodeTextColor': '#FFFFFF', 
   'linkColor': '#4CAF50',
   'nodeShape': 'circle',  %% Adding a shape for Frontend nodes
-  'backendNodeShape': 'rect' %% Adding a different shape for Backend nodes
+  'backendNodeShape': 'rect', %% Adding a different shape for Backend nodes
+  'backgroundColor': '#F5F5F5' %% Changing the background to light gray
 }}}%%
 mindmap
   root((Tech Stack))
@@ -32,23 +33,24 @@ mindmap
       JavaScript
       React
       Angular
-      Vue.js   %% Adding Vue.js as a Frontend framework
+      Vue.js
     Backend
       Node.js
       Python
       Java
-      C#   %% Adding C# to Backend
-      Ruby  %% Adding Ruby to Backend
+      C#
+      Ruby
     Database
       MongoDB
       MySQL
       PostgreSQL
-      SQLite %% Adding SQLite
+      SQLite
     Tools
       Git
       Docker
       AWS
-      Kubernetes %% Adding Kubernetes as a tool
+      Kubernetes
+
 
 
 ```
