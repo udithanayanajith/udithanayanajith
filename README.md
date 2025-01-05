@@ -11,46 +11,65 @@ Full Stack Developer passionate about creating innovative solutions and learning
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 
-  'fontSize': '16px', 
-  'primaryColor': '#2196F3', 
-  'secondaryColor': '#FFEB3B', 
-  'tertiaryColor': '#FF5722', 
-  'edgeLabelBackground': '#ffffff', 
-  'primaryTextColor': '#FFFFFF', 
-  'secondaryTextColor': '#000000', 
-  'tertiaryTextColor': '#FFFFFF', 
-  'nodeBorder': '2px solid #FFEB3B', 
-  'nodeTextColor': '#FFFFFF', 
-  'linkColor': '#4CAF50',
-  'backgroundColor': '#F5F5F5'
+  'fontSize': '16px',
+  'primaryColor': '#6366F1',
+  'secondaryColor': '#8B5CF6',
+  'tertiaryColor': '#EC4899',
+  'mainBkg': '#1F2937',
+  'nodeBkg': '#374151',
+  'nodeTextColor': '#F3F4F6',
+  'border1': '#6366F1',
+  'border2': '#8B5CF6',
+  'arrow1': '#6366F1',
+  'arrow2': '#8B5CF6',
+  'clusterBkg': '#1F2937',
+  'clusterBorder': '#6366F1',
+  'edgeLabelBackground': '#1F2937',
+  'textColor': '#F3F4F6'
 }}}%%
 mindmap
   root((Tech Stack))
     Frontend
-      class Frontend fill:#A5D6A7,stroke:#4CAF50,color:#E1F5FE
+      class Frontend fill:#4F46E5,stroke:#818CF8,color:#FFFFFF
       HTML/CSS
+      class HTML/CSS fill:#7C3AED,stroke:#A78BFA,color:#FFFFFF
       JavaScript
+      class JavaScript fill:#9333EA,stroke:#C084FC,color:#FFFFFF
       React
+      class React fill:#C026D3,stroke:#E879F9,color:#FFFFFF
       Angular
+      class Angular fill:#DB2777,stroke:#F472B6,color:#FFFFFF
       Vue.js
+      class Vue.js fill:#E11D48,stroke:#FB7185,color:#FFFFFF
     Backend
       Node.js
+      class Node.js fill:#4F46E5,stroke:#818CF8,color:#FFFFFF
       Python
+      class Python fill:#7C3AED,stroke:#A78BFA,color:#FFFFFF
       Java
+      class Java fill:#9333EA,stroke:#C084FC,color:#FFFFFF
       C#
+      class C# fill:#C026D3,stroke:#E879F9,color:#FFFFFF
       Ruby
+      class Ruby fill:#DB2777,stroke:#F472B6,color:#FFFFFF
     Database
       MongoDB
+      class MongoDB fill:#4F46E5,stroke:#818CF8,color:#FFFFFF
       MySQL
+      class MySQL fill:#7C3AED,stroke:#A78BFA,color:#FFFFFF
       PostgreSQL
+      class PostgreSQL fill:#9333EA,stroke:#C084FC,color:#FFFFFF
       SQLite
+      class SQLite fill:#C026D3,stroke:#E879F9,color:#FFFFFF
     Tools
       Git
+      class Git fill:#4F46E5,stroke:#818CF8,color:#FFFFFF
       Docker
+      class Docker fill:#7C3AED,stroke:#A78BFA,color:#FFFFFF
       AWS
+      class AWS fill:#9333EA,stroke:#C084FC,color:#FFFFFF
       Kubernetes
-
-
+      class Kubernetes fill:#C026D3,stroke:#E879F9,color:#FFFFFF
 ```
 
 
